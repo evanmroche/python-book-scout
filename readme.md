@@ -2,7 +2,7 @@
 
 ## Abstract
 
-- Briefly describe the purpose and goals of the project.
+I created this project while learning python, please don't expect the code to be perfect.
 
 ## Table of Contents
 
@@ -17,13 +17,17 @@
 - Usage
 
 ## Usage
+
 - Explain how to use the project and provide examples.
 
 ## Features
+
 - List the main features of the project.
 
 ## Contributing
+
 - Explain how others can contribute to the project.
 
 ## License
-- Specify the license under which the project is distributed.
+
+- This project is distributed under the GNU General Public License. See LICENSE.md for more information.
